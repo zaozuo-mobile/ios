@@ -36,6 +36,7 @@
 * [Eleme网络层封装库](https://github.com/Eleme-IMF/DRDNetworking)
 * [iOS组件化方案探索](http://blog.cnbang.net/tech/3080/)
 * [蘑菇街 App 的组件化之路](http://limboy.me/ios/2016/03/10/mgj-components.html)
+* [新浪微博iOS客户端架构与优化之路](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112273&idx=1&sn=893a66a04e541a99b7bc4d7cf227e2f7&scene=1&srcid=0518g0Osnf9KOVk1OmjeoL3o&key=f5c31ae61525f82ea1173bedf73f2270693dba21ee6f8ef42808c925823d44a9e0d0b1d5c098bd4d986c6dbf5b2f6c46&ascene=0&uin=OTEyMjkzMzQz)
 
 ####AOP
 * [Swift AOP](http://nshipster.cn/swift-objc-runtime/)

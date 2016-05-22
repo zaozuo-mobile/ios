@@ -4,6 +4,7 @@
 ##开发文档：
 * [搭建开发环境 (by ios team)](./doc/%E6%90%AD%E5%BB%BA%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
 * [开发规范 (by ios team)](./doc/%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.md)
+* [iOS App发布流程 (by ios team)](./doc/iOSApp发布流程.md)
 * [开发中需要注意的问题 (by ios team)](./doc/%E5%BC%80%E5%8F%91%E4%B8%AD%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E9%97%AE%E9%A2%98.md)
 
 ##原创文章：

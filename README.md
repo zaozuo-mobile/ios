@@ -10,6 +10,7 @@
 ####解决方案：
 * [iOS-Swift可行性分析 (by ancode-cn)](./advanced/iOS-Swift%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90.md)
 * [iOS-数据库模块搭建方案 (by ancode-cn)](./advanced/iOS-%E6%95%B0%E6%8D%AE%E5%BA%93%E6%A8%A1%E5%9D%97%E6%90%AD%E5%BB%BA%E6%96%B9%E6%A1%88.md)
+* [Swift iOS7适配总结 (by ios team)](./advanced/Swift%20iOS7%E9%80%82%E9%85%8D%E6%80%BB%E7%BB%93.md)
 
 ####基础部分：
 * [iOS-基础-数据存储方式 (by ancode-cn)](./base/iOS-%E5%9F%BA%E7%A1%80-%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E6%96%B9%E5%BC%8F.md)

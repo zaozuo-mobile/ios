@@ -1,13 +1,11 @@
-#Swift iOS7适配总结
-
-* SDWebImage默认开启图片解压缓存造成内存增长不可控；（fixed）
-2. 使用复杂泛型（where语句）在iOS7产生EXC_BAD_ACCESS错误;（fixed）
-3. 使用autolayout时constain to margin默认勾选，与vc.view产生的顶部约束在iOS7有间隙;（fixed）
-4. 系统默认启动页设置方式无法适配5c问题，通过LaunchImage针对每个机型设置启动图片；（fixed）
+* SDWebImage默认开启图片解压缓存造成内存增长不可控；
+2. 使用复杂泛型（where语句）在iOS7产生EXC_BAD_ACCESS错误;
+3. 使用autolayout时constain to margin默认勾选，与vc.view产生的顶部约束在iOS7有间隙;
+4. 系统默认启动页设置方式无法适配5c问题，通过LaunchImage针对每个机型设置启动图片；
 5. 关闭页面时，页面未执行pop就push新的页面造成错误， Unbalanced calls to begin/end appearance transition，
-    如果有关闭页面后需要使用通知的方式告知需要push时，建议在deinit中发送通知；（fixed）
-6. 筛选在7.0快速滑动时报NSGenericException，建议从网络获取到数据后立即调用reload刷新数据；（fixed）
-7. UIButton 在7.0中tint默认为蓝色，影响效果；（fixed）
+    如果有关闭页面后需要使用通知的方式告知需要push时，建议在deinit中发送通知；
+6. 筛选在7.0快速滑动时报NSGenericException，建议从网络获取到数据后立即调用reload刷新数据；
+7. UIButton 在7.0中tint默认为蓝色，影响效果；
 8. UIButton的图片总是会受到tintColor的影响，自动改变图片的颜色，
     解决方案：在button的type里把System改为Custom
 9. viewcontroller 重新执行viewWillAppear时，会重新调用该view的layoutSubviews，导致晃动

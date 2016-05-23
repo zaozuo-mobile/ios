@@ -40,6 +40,10 @@
 * [蘑菇街 App 的组件化之路](http://limboy.me/ios/2016/03/10/mgj-components.html)
 * [新浪微博iOS客户端架构与优化之路](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112273&idx=1&sn=893a66a04e541a99b7bc4d7cf227e2f7&scene=1&srcid=0518g0Osnf9KOVk1OmjeoL3o&key=f5c31ae61525f82ea1173bedf73f2270693dba21ee6f8ef42808c925823d44a9e0d0b1d5c098bd4d986c6dbf5b2f6c46&ascene=0&uin=OTEyMjkzMzQz)
 
+####动态化方案
+* [动态化应用新方案，阿里聚划算LuaView动态化之路](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650992643&idx=1&sn=1e287d32908daf5afdb1fd9895c8eea1&scene=1&srcid=0523H4tbzC8PDi3hOpOG5A40&key=f5c31ae61525f82e2dcb1016ee69e0207f10664155472083246ad7dd7ad347caa5a4c833ff96747f25cf3d2218454bbd&ascene=0&uin=OTEyMjkzMzQz&devicetype)
+
+
 ####AOP
 * [Swift AOP](http://nshipster.cn/swift-objc-runtime/)
 
